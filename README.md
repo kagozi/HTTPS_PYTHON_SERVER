@@ -30,3 +30,6 @@ Alex Kagozi
 ---
 ## LICENSE AND COPYRIGHT
 Copyright &copy; Alex Kagozi
+
+## SCREENSHOT
+![httpsserver](https://user-images.githubusercontent.com/70429029/150093126-7e08ce76-40d0-4723-b823-1f07f4595b1b.png)
